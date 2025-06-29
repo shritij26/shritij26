@@ -1,11 +1,11 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> Hello, World!</h1>
 
 <p align="center">
-  💸 Coding ’cause therapy’s expensive… and I like breaking things for fun.<br/>
-  🎯 Full-stack-ish: Java · C++ · C · Python · HTML · CSS · JavaScript<br/>
-  🧠 DSA: crushed my brain and lived to tell the tale.<br/>
+  💸 Coding ’cause therapy’s expensive… and but still stressed anyway.<br/>
+  🎯 Weapons: Java · C++ · C · Python · HTML · CSS · JavaScript<br/>
+  🧠 DSA: optimizing code and overthinking solutions since day one.<br/>
   🎨 Frontend: styled, centered & deployed ✅<br/>
-  🚀 Now flirting with backend – watch my servers survive or implode.
+  🚀 still working with backend – watch my servers survive or implode.
 </p>
 
 ---
