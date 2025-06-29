@@ -1,7 +1,5 @@
-<!-- Animated Greeting -->
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> Hello, World!</h1>
 
-<!-- Funny & Frank Bio -->
 <p align="center">
   💸 Coding ’cause therapy’s expensive… and I like breaking things for fun.<br/>
   🎯 Full-stack-ish: Java · C++ · C · Python · HTML · CSS · JavaScript<br/>
