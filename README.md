@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Animated Greeting -->
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> Hello, World!</h1>
 
-<!--
-**shritij26/shritij26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Funny & Frank Bio -->
+<p align="center">
+  💸 Coding ’cause therapy’s expensive… and I like breaking things for fun.<br/>
+  🎯 Full-stack-ish: Java · C++ · C · Python · HTML · CSS · JavaScript<br/>
+  🧠 DSA: crushed my brain and lived to tell the tale.<br/>
+  🎨 Frontend: styled, centered & deployed ✅<br/>
+  🚀 Now flirting with backend – watch my servers survive or implode.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎉 Tech & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
+</p>
+
+---
+
+## 💡 LeetCode Shenanigans
+
+**🔗 LeetCode Profile**: [shritij](https://leetcode.com/shritij/) – Embracing the chaos one problem at a time.
+
+---
+
+> *“I write code that even surprises me when it works.” 😅* 
