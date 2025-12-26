@@ -24,10 +24,17 @@
 
 ---
 
-## 💡 LeetCode Shenanigans
+## 🧠 Coding Profiles
 
-**🔗 LeetCode Profile**: [shritij](https://leetcode.com/shritij/) – Embracing the chaos one problem at a time.
+🔗 **LeetCode**: https://leetcode.com/shritij/  
+> Turning brain cells into green ticks, one submission at a time 🧠✅
+
+🍽️ **CodeChef**: https://www.codechef.com/users/shritij  
+> Cooking WA’s until something finally AC’s 🔥
+
+⚔️ **Codeforces**: https://codeforces.com/profile/shritij  
+> Entered for practice, stayed for the emotional damage 😭
 
 ---
 
-> *“I write code that even surprises me when it works.” 😅* 
+> *“I write code that even surprises me when it works.” 😅*
