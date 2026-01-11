@@ -46,4 +46,4 @@
 
 ---
 
-> *“I write code that even surprises me when it works.” 😅*
+> *“I write code that even surprises me when it works.”*
