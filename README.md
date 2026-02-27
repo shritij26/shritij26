@@ -31,19 +31,4 @@
   <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
----
-
-## 🧠 Coding Profiles
-
-🔗 **LeetCode**: https://leetcode.com/shritij/  
-> Turning brain cells into green ticks, one submission at a time 🧠✅
-
-🍽️ **CodeChef**: https://www.codechef.com/users/shritij  
-> Cooking WA’s until something finally AC’s 🔥
-
-⚔️ **Codeforces**: https://codeforces.com/profile/shritij  
-> Entered for practice, stayed for the emotional damage 😭
-
----
-
 > *“I write code that even surprises me when it works.”*
