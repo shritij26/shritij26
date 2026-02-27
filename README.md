@@ -1,7 +1,7 @@
   <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> Hello, World!</h1>
 
 <p align="center">
-  💸 Coding ’cause therapy’s expensive… and but still stressed anyway.<br/>
+  💸 Coding ’cause therapy’s expensive… and but still stressed anyways.<br/>
   🎯 Weapons: Java · C++ · C · Python · HTML · CSS · JavaScript<br/>
   🧠 DSA: optimizing code and overthinking solutions since day one.<br/>
   🎨 Frontend: styled, centered & deployed. <br/>
