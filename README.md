@@ -146,6 +146,10 @@ I was bitten by the **coding bug** (not a radioactive spider, sadly) and since t
 
 ## 🎯 Currently Training
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shritij26/shritij26/main/spider-sense.svg" width="700" alt="spider sense tingling"/>
+</p>
+
 - 🕸️ Sharpening **DSA** and problem-solving speed
 - ⚙️ Building stronger **backend** skills with Node, Express & databases
 - ⚛️ Going deeper into **React** and modern frontend workflows
@@ -165,6 +169,10 @@ I was bitten by the **coding bug** (not a radioactive spider, sadly) and since t
 
 <p align="center">
   <i>🕷️ "It's not about the bugs you fix… it's about the ones you swing past." 🕸️</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shritij26/shritij26/main/spider-crawl.svg" width="760" alt="spiders crawling"/>
 </p>
 
 <p align="center">
