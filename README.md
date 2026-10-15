@@ -4,7 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="./typing.svg" alt="With great power comes great responsibility" width="760"/>
+  <img src="https://raw.githubusercontent.com/shritij26/shritij26/main/typing.svg" alt="With great power comes great responsibility" width="760"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shritij26/shritij26/main/web-banner.svg" width="760" alt="spider swinging on web"/>
 </p>
 
 <p align="center">
@@ -13,7 +17,9 @@
   <img src="https://img.shields.io/badge/Spider--Sense-Tingling-000000?style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shritij26/shritij26/main/web-divider.svg" width="700" alt="web divider"/>
+</p>
 
 ## 🕸️ Origin Story
 
@@ -31,7 +37,9 @@ I was bitten by the **coding bug** (not a radioactive spider, sadly) and since t
 📊 Side Quest   →  Exploring data analysis with Python
 ```
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shritij26/shritij26/main/web-divider.svg" width="700" alt="web divider"/>
+</p>
 
 ## 🦸 Spider-Arsenal (Tech Skills)
 
@@ -117,7 +125,9 @@ I was bitten by the **coding bug** (not a radioactive spider, sadly) and since t
   <img src="https://img.shields.io/badge/Problem%20Solving-E23636?style=for-the-badge"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shritij26/shritij26/main/web-divider.svg" width="700" alt="web divider"/>
+</p>
 
 ## 📡 Daily Bugle Stats
 
@@ -130,7 +140,9 @@ I was bitten by the **coding bug** (not a radioactive spider, sadly) and since t
   <img src="https://streak-stats.demolab.com?user=shritij26&hide_border=true&background=0D1117&ring=E23636&fire=E23636&currStreakLabel=FF5C5C&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shritij26/shritij26/main/web-divider.svg" width="700" alt="web divider"/>
+</p>
 
 ## 🎯 Currently Training
 
@@ -139,7 +151,9 @@ I was bitten by the **coding bug** (not a radioactive spider, sadly) and since t
 - ⚛️ Going deeper into **React** and modern frontend workflows
 - 📊 Exploring **data analysis** & visualisation with Python
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shritij26/shritij26/main/web-divider.svg" width="700" alt="web divider"/>
+</p>
 
 ## 🌐 Find Me on the Web
 
